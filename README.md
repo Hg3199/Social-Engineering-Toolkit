@@ -91,6 +91,13 @@ can also be used to influence people's opinions or to spread misinformation or
 malicious content. In short, the impact of social engineering on people and
 organizations and the potential damage it can cause 
 must be taken seriously.
+<br />
+<h2>Mitigations </h2>
+
+- <b>Phising Campaigns</b> 
+- <b>Train staff, friends, and family on security best practices </b>
+- <b>Continually test the effectiveness of the training</b>
+- <b>Technical measures such as installing firewalls and making regular system updates</b>
 <!--
  ```diff
 - text in red
