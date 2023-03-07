@@ -20,11 +20,14 @@ For this project, I chose to research social engineering and the tools employed 
 
 <h2>Project Walkthrough</h2>
 First, after choosing SET, i researched how to download and configure it on my attacker kali VM. Then i researched the tool itself and its capabilities and chose credential harvester as the method i will be demonstarting.
+<br />
+<br />
 
 
-<p align="center">
+
 Launch the utility: <br/>
-<img src="https://imgur.com/dkBe96q" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![1 jpg](https://user-images.githubusercontent.com/125488657/223505584-b28bdf9e-7e76-4d45-8736-a048ffaa6818.png)
+</p>
 <br />
 <br />
 
