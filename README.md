@@ -40,7 +40,11 @@ Paste in local address: <br/>
 <br />
 <br />
 Once you have entered the IP address of the machine you wish to receive the credentials for, your harvester is now configured. Now we must find a way to connect with the victim. It could be in an email, an image, or a text message. For this demonstration, we will be simulating attacking someone we are familiar with.
+<br />
+<br />
 
+Listening for Credentials: <br />
+![3 jpg](https://user-images.githubusercontent.com/125488657/223535692-d6ab01ca-8a6d-4cb7-b9e6-9321ca759902.png)
 
 <!--
  ```diff
