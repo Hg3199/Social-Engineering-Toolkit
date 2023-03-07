@@ -27,9 +27,19 @@ First, after choosing SET, i researched how to download and configure it on my a
 
 Launch the utility: <br/>
 ![1 jpg](https://user-images.githubusercontent.com/125488657/223505584-b28bdf9e-7e76-4d45-8736-a048ffaa6818.png)
-</p>
+
 <br />
 <br />
+After launching SET and selecting options 1, 2, and 3 in that order, select option 1 for site templates. These are pre-constructed website templates that are available for use. If you wish to clone a particular website, select option 2 for site cloning and insert the URL you would like to clone.
+<br />
+<br />
+
+Paste in local address: <br/>
+![2 jpg](https://user-images.githubusercontent.com/125488657/223531234-495be71b-7827-4340-90dd-78ebeeee4cb5.png)
+
+<br />
+<br />
+Once you have entered the IP address of the machine you wish to receive the credentials for, your harvester is now configured. Now we must find a way to connect with the victim. It could be in an email, an image, or a text message. For this demonstration, we will be simulating attacking someone we are familiar with.
 
 
 <!--
